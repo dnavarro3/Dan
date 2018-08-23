@@ -1,3 +1,3 @@
-# Dan 
-Hi
-Bella
+# Dan and Bella
+Bella, Computer Engineering
+Dan, Computer Science
